@@ -10,7 +10,6 @@
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
     "isolatedModules": true,
-    "postinstall":"prisma generate",
     "jsx": "preserve",
     "incremental": true,
     "plugins": [
